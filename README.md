@@ -6,3 +6,6 @@ mas ainda está em faze de desemvolvimento mais para frente pretendo colocar tel
 Veja o Modelo Do site 😝🚀
 
 <a href="https://marleycastro.github.io/Escrit-rio-de-Advoc-cia-2.0-/">Clique aqui</a>
+
+
+![Uploading Captura de tela 2024-12-02 133045.png…]()
