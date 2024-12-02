@@ -1,0 +1,59 @@
+@media (max-width: 1024px) {
+    .hero h1 {
+        font-size: 2rem;
+    }
+
+    .about-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 768px) {
+    .nav-links {
+        display: none;
+    }
+
+    .mobile-menu-icon {
+        display: block;
+    }
+
+    .container {
+        width: 95%;
+        padding: 0 10px;
+    }
+
+    .hero {
+        padding: 2rem 1rem;
+    }
+
+    .service-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .contact-form {
+        margin: -30px 1rem 2rem;
+    }
+
+    .header-image {
+        height: 50vh;
+    }
+}
+
+@media (max-width: 480px) {
+    .hero h1 {
+        font-size: 1.5rem;
+    }
+
+    .hero h3 {
+        font-size: 1rem;
+    }
+
+    .contact-form {
+        padding: 1rem;
+    }
+
+    .header-image {
+        height: 40vh;
+    }
+
+}
